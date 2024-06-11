@@ -15,3 +15,4 @@ by Seth Dolak
 
 This is my generative art assignment, which includes three original pieces. 
 
+https://sethdolak.github.io/art-from-code/193DS_SethDolak_GenerativeArt.html
